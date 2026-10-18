@@ -1,0 +1,7 @@
+streamlit>=1.35,<2
+GitPython>=3.1.40,<4
+google-genai>=1.0,<2
+python-dotenv>=1.0,<2
+pandas>=2.0,<4
+plotly>=5.20,<7
+pytest>=8.0,<9
